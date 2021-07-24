@@ -7,4 +7,8 @@
     <UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="CustomMinecraftLauncher" Version="1.1.1" />
+  </ItemGroup>
+
 </Project>

@@ -1,0 +1,22 @@
+E:\UwU Product\NotThatUwU Launcher\NotThatUwU Launcher\bin\Debug\net5.0-windows\NotThatUwU Launcher.exe
+E:\UwU Product\NotThatUwU Launcher\NotThatUwU Launcher\bin\Debug\net5.0-windows\NotThatUwU Launcher.deps.json
+E:\UwU Product\NotThatUwU Launcher\NotThatUwU Launcher\bin\Debug\net5.0-windows\NotThatUwU Launcher.runtimeconfig.json
+E:\UwU Product\NotThatUwU Launcher\NotThatUwU Launcher\bin\Debug\net5.0-windows\NotThatUwU Launcher.runtimeconfig.dev.json
+E:\UwU Product\NotThatUwU Launcher\NotThatUwU Launcher\bin\Debug\net5.0-windows\NotThatUwU Launcher.dll
+E:\UwU Product\NotThatUwU Launcher\NotThatUwU Launcher\bin\Debug\net5.0-windows\ref\NotThatUwU Launcher.dll
+E:\UwU Product\NotThatUwU Launcher\NotThatUwU Launcher\bin\Debug\net5.0-windows\NotThatUwU Launcher.pdb
+E:\UwU Product\NotThatUwU Launcher\NotThatUwU Launcher\bin\Debug\net5.0-windows\CmlLib.dll
+E:\UwU Product\NotThatUwU Launcher\NotThatUwU Launcher\bin\Debug\net5.0-windows\DotNetZip.dll
+E:\UwU Product\NotThatUwU Launcher\NotThatUwU Launcher\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+E:\UwU Product\NotThatUwU Launcher\NotThatUwU Launcher\obj\Debug\net5.0-windows\NotThatUwU Launcher.csprojAssemblyReference.cache
+E:\UwU Product\NotThatUwU Launcher\NotThatUwU Launcher\obj\Debug\net5.0-windows\NotThatUwU_Launcher.Home.resources
+E:\UwU Product\NotThatUwU Launcher\NotThatUwU Launcher\obj\Debug\net5.0-windows\NotThatUwU Launcher.csproj.GenerateResource.cache
+E:\UwU Product\NotThatUwU Launcher\NotThatUwU Launcher\obj\Debug\net5.0-windows\NotThatUwU Launcher.GeneratedMSBuildEditorConfig.editorconfig
+E:\UwU Product\NotThatUwU Launcher\NotThatUwU Launcher\obj\Debug\net5.0-windows\NotThatUwU Launcher.AssemblyInfoInputs.cache
+E:\UwU Product\NotThatUwU Launcher\NotThatUwU Launcher\obj\Debug\net5.0-windows\NotThatUwU Launcher.AssemblyInfo.cs
+E:\UwU Product\NotThatUwU Launcher\NotThatUwU Launcher\obj\Debug\net5.0-windows\NotThatUwU Launcher.csproj.CoreCompileInputs.cache
+E:\UwU Product\NotThatUwU Launcher\NotThatUwU Launcher\obj\Debug\net5.0-windows\NotThatUwU Launcher.csproj.CopyComplete
+E:\UwU Product\NotThatUwU Launcher\NotThatUwU Launcher\obj\Debug\net5.0-windows\NotThatUwU Launcher.dll
+E:\UwU Product\NotThatUwU Launcher\NotThatUwU Launcher\obj\Debug\net5.0-windows\ref\NotThatUwU Launcher.dll
+E:\UwU Product\NotThatUwU Launcher\NotThatUwU Launcher\obj\Debug\net5.0-windows\NotThatUwU Launcher.pdb
+E:\UwU Product\NotThatUwU Launcher\NotThatUwU Launcher\obj\Debug\net5.0-windows\NotThatUwU Launcher.genruntimeconfig.cache
